@@ -1,8 +1,10 @@
-📌 Project Overview
+🎬 Netflix Data Analysis Dashboard (Power BI)
+
+📌 Project Overview:
 
 This project presents an interactive Netflix data analysis dashboard built using Microsoft Power BI. The dashboard explores Netflix’s content library to uncover insights about movies, TV shows, genres, ratings, release trends, and global distribution.
 
-🎯 Project Objectives
+🎯 Project Objectives:
 
 Analyze Netflix content distribution (Movies vs TV Shows)
 
@@ -14,7 +16,7 @@ Understand country-wise content availability
 
 Analyze ratings and audience classification
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:
 
 Microsoft Power BI – Data Visualization & Dashboard
 
@@ -22,7 +24,7 @@ Power Query – Data Cleaning & Transformation
 
 Excel/CSV Dataset – Netflix Titles Dataset
 
-📂 Dataset Description
+📂 Dataset Description:
 
 The dataset includes detailed information about Netflix content, such as:
 
@@ -50,7 +52,7 @@ Genre (Listed In)
 
 Description
 
-🧹 Data Cleaning & Transformation
+🧹 Data Cleaning & Transformation:
 
 Data preprocessing steps performed in Power BI:
 
@@ -64,7 +66,7 @@ Created calculated columns and measures
 
 Standardized category names
 
-📊 Dashboard Features
+📊 Dashboard Features:
 
 The Power BI dashboard includes:
 
@@ -82,7 +84,7 @@ Ratings Classification (TV-MA, PG, etc.)
 
 Release Year Analysis
 
-📈 Key Insights
+📈 Key Insights:
 
 Movies dominate Netflix’s content library compared to TV Shows
 
@@ -94,7 +96,7 @@ Drama and International Movies are the most popular genres
 
 Majority of content is rated TV-MA and TV-14
 
-🚀 How to Use the Project
+🚀 How to Use the Project:
 
 Download the dataset (Netflix titles CSV file)
 
